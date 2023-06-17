@@ -1,8 +1,8 @@
 # PHP
 
 * le CRUD en PHP
-* Créer une base de donnée
-* Modifier une base de donné
+* Créer une base de données
+* Modifier une base de données
 * Utiliser Xampp et MySql
 * Pratique de SQL
 
