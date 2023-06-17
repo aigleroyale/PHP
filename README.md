@@ -1,4 +1,11 @@
 # PHP
+
+* le CRUD en PHP
+* Créer une base de donnée
+* Modifier une base de donné
+* Utiliser Xampp et MySql
+* Pratique de SQL
+
 Utiliser le C (create) R (read) U (update) D (delete) en PHP
 
 ## Vu1 : 
